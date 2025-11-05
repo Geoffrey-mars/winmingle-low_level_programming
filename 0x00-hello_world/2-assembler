@@ -1,0 +1,6 @@
+#!/bin/bash
+
+output_file="${CFILE%.*}.s"
+
+gcc -S "$CFILE" -o "$output_file"
+
