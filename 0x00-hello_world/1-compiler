@@ -1,0 +1,8 @@
+ /**
+ * Author: Habila Makroghop Geoffrey;
+ * Program: WinMingle Community C Training
+ * Description: This file is about me trying about Compiler.
+ */
+ #!/bin/bash
+gcc -c $CFILE
+
