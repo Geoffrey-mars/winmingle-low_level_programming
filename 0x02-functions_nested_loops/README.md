@@ -156,12 +156,12 @@ A program that prints the first 50 Fibonacci numbers, starting with 1 and 2, fol
 ### Compilation Command for Task 14 is:
 gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 102-main.c 102-fibonacci.c -o 102-fibonacci
 
-### Task 14:*** Write a program that finds and prints the sum of the even-valued terms, followed by a new line.
+### Task 15:*** Write a program that finds and prints the sum of the even-valued terms, followed by a new line.
 A program that finds and prints the sum of the even-valued terms, followed by a new line.
 ### Compilation Command for Task 15 is:
 gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 103-main.c 103-fibonacci.c -o 103-fibonacci.c
 
-### Task 15:** Write a program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line.
+### Task 16:** Write a program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line.
 A program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line.
 ### Compilation Command for Task 16 is:
 gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 104-main.c 104-fibonacci.c -o 104-fibonacci
