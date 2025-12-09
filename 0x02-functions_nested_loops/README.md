@@ -166,14 +166,3 @@ A program that finds and prints the first 98 Fibonacci numbers, starting with 1 
 ### Compilation Command for Task 16 is:
 gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 104-main.c 104-fibonacci.c -o 104-fibonacci
 
-*(Add more tasks here as you complete them)*
-
----
-
-## 🧪 Compilation Example
-
-Example command used to compile programs in this project:
-
-```bash
-gcc -Wall -Werror -Wextra -pedantic -std=gnu89 _putchar.c main_file.c file.c -o output
-
